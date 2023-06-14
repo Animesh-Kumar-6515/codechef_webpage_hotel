@@ -1,0 +1,119 @@
+*{
+    padding: 0px;
+    margin: 0%;
+    font-size: large;
+    background-color: #0F3743;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.heading{
+    background-color: transparent;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    padding-bottom: 150px;
+    font-size: 80px;
+    font-family: Times;
+}
+h1{
+    font-size: 50px;
+    
+}
+.quote{
+    text-align: right;
+    font-size: 60px;
+    font-family:cursive;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px; 
+    color: white;
+    background-color: transparent;
+}
+.landingPage{
+    background-image: url("https://wallpapers.com/images/featured/6bly12umg2d4psr2.jpg");
+    padding-top: 20px;
+    padding-bottom: 200px;
+
+}
+.headingPara{
+    color: white;
+    background-color:transparent;
+    padding-top: 30px;
+    text-align: right;
+    padding-left: 800px;
+    padding-right: 20px;
+}
+ul{
+    padding-left: 50px;
+}
+.mainHeader{
+    padding-left: 15px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    font-size: 40px;
+}
+.bodyhead{
+    color: #CF6402;
+}
+.cities{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+p{
+    padding-left: 50px;
+    padding-right: 350px;
+}
+h2{
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size: 30px;
+}
+h3{
+    padding-left: 50px;
+    padding-top: 30px;
+}
+em{
+    color: blueviolet;
+}
+.subPoints{
+    color: cyan;
+}
+.links{
+    color: #f70303;
+}
+
+.price{
+   
+    border: 1px solid purple;
+    border-collapse: collapse;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    width: 30%;
+    
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #f70303;
+}
+tr:hover td{
+    background-color: pink;
+    color: black;
+}
+
+footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    
+    background-color: #4F2D18;
+}
+.footpara{
+    color: white ;
+    background-color: transparent;
+    padding-right: 50px;
+}
+
+
